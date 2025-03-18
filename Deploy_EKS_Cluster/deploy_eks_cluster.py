@@ -1,6 +1,6 @@
 # Import libraries
 import boto3  # AWS SDK for Python to interact with AWS services
-import json  # For reading and parsing JSON configuration files
+import json  # For reading and parsing JSON configuration files.
 import os  # For accessing environment variables
 import warnings  # To issue runtime warnings
 import traceback  # For capturing and logging detailed stack traces in error scenarios
